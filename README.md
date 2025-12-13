@@ -18,7 +18,7 @@ In your flutter project add the dependency:
 ``` dart
 dependencies:
   ...
-  wp_notify: ^2.0.4
+  wp_notify: ^2.0.5
 ```
 
 ### Usage example #
